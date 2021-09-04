@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 int	ft_get_smallest_str(char **strs, int strsSize)
 {
 	int	len;
