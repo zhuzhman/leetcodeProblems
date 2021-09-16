@@ -10,7 +10,6 @@ void	ft_int_swap(int *a, int *b)
 void moveZeroes(int* nums, int numsSize){
     int head;
     int tail;
-    int temp;
     
     head = 0;
     tail = 0;
